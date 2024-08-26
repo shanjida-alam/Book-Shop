@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Lab02</string>
+    <string name="find_book">Select Menu</string>
+    <string name="brands">No book </string>
+    <string name="this_is_a_text_view_string_brands">This is a text view@string/brands</string>
+    <string-array name="menu">
+        <item>Fiction </item>
+        <item>Non-fiction </item>
+        <item>Science Fiction </item>
+    </string-array>
+</resources>
